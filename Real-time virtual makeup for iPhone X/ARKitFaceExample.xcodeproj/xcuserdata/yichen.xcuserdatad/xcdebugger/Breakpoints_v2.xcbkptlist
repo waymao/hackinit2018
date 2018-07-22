@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARKitFaceExample/VirtualFaceContent/RobotHead.swift"
+            timestampString = "553879611.912367"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "RobotHead"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARKitFaceExample.RobotHead.(jawNode in _76DA234A695CFC935DD9B9C475AD585C).getter : __ObjC.SCNNode"
+                  moduleName = "ARKitFaceExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yichen/Desktop/untitled%20folder/ARKitFaceExample/VirtualFaceContent/RobotHead.swift"
+                  timestampString = "553877625.594963"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARKitFaceExample.RobotHead.(jawNode in _76DA234A695CFC935DD9B9C475AD585C).setter : __ObjC.SCNNode"
+                  moduleName = "ARKitFaceExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yichen/Desktop/untitled%20folder/ARKitFaceExample/VirtualFaceContent/RobotHead.swift"
+                  timestampString = "553877625.596854"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARKitFaceExample/VirtualFaceContent/RobotHead.swift"
+            timestampString = "553879611.912421"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "RobotHead"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARKitFaceExample.RobotHead.(eyeLeftNode in _76DA234A695CFC935DD9B9C475AD585C).getter : __ObjC.SCNNode"
+                  moduleName = "ARKitFaceExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yichen/Desktop/untitled%20folder/ARKitFaceExample/VirtualFaceContent/RobotHead.swift"
+                  timestampString = "553877625.60105"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARKitFaceExample.RobotHead.(eyeLeftNode in _76DA234A695CFC935DD9B9C475AD585C).setter : __ObjC.SCNNode"
+                  moduleName = "ARKitFaceExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yichen/Desktop/untitled%20folder/ARKitFaceExample/VirtualFaceContent/RobotHead.swift"
+                  timestampString = "553877625.602546"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARKitFaceExample/VirtualFaceContent/RobotHead.swift"
+            timestampString = "553879611.9124629"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "RobotHead"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARKitFaceExample.RobotHead.(eyeRightNode in _76DA234A695CFC935DD9B9C475AD585C).getter : __ObjC.SCNNode"
+                  moduleName = "ARKitFaceExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yichen/Desktop/untitled%20folder/ARKitFaceExample/VirtualFaceContent/RobotHead.swift"
+                  timestampString = "553877625.6067261"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARKitFaceExample.RobotHead.(eyeRightNode in _76DA234A695CFC935DD9B9C475AD585C).setter : __ObjC.SCNNode"
+                  moduleName = "ARKitFaceExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yichen/Desktop/untitled%20folder/ARKitFaceExample/VirtualFaceContent/RobotHead.swift"
+                  timestampString = "553877625.608216"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
